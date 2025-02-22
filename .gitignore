@@ -1,0 +1,19 @@
+# Ignore build files
+/build/
+/dist/
+/out/
+/target/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.jar
+*.war
+*.pyc
+*.pyo
+*.pyd
+
+.vscode/
